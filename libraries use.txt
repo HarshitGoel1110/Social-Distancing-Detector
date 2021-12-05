@@ -1,0 +1,6 @@
+WBS :- 2
+Grant Chart :- 1
+
+Object Detection :- YOLO V3
+differnce between human and object :- Using trained data set of expected features
+human to points :- OPEN CV
